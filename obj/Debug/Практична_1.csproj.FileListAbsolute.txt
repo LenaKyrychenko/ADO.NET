@@ -1,0 +1,10 @@
+D:\ООП\WindowsForm\Практична_1\bin\Debug\Практична_1.exe.config
+D:\ООП\WindowsForm\Практична_1\bin\Debug\Практична_1.exe
+D:\ООП\WindowsForm\Практична_1\bin\Debug\Практична_1.pdb
+D:\ООП\WindowsForm\Практична_1\obj\Debug\Практична_1.csprojAssemblyReference.cache
+D:\ООП\WindowsForm\Практична_1\obj\Debug\Практична_1.Form1.resources
+D:\ООП\WindowsForm\Практична_1\obj\Debug\Практична_1.Properties.Resources.resources
+D:\ООП\WindowsForm\Практична_1\obj\Debug\Практична_1.csproj.GenerateResource.cache
+D:\ООП\WindowsForm\Практична_1\obj\Debug\Практична_1.csproj.CoreCompileInputs.cache
+D:\ООП\WindowsForm\Практична_1\obj\Debug\Практична_1.exe
+D:\ООП\WindowsForm\Практична_1\obj\Debug\Практична_1.pdb
